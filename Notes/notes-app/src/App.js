@@ -42,7 +42,7 @@ const App = () => {
 
   return (
     <div className="container mx-auto my-10 p-6 max-w-4xl bg-gradient-to-r from-blue-900 via-gray-900 to-purple-900 rounded-lg shadow-xl">
-      <h1 className="mb-4 text-3xl font-bold text-center text-white">Escribe aqui tus notas</h1>
+      <h1 className="mb-4 text-3xl font-bold text-center text-white">Escribé aqui tus Notas para tu vlog</h1>
       
       <FormComponent
         addNote={addNote}
