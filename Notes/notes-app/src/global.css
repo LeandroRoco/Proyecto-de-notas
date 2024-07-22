@@ -6,7 +6,7 @@ html, body {
       sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    background: linear-gradient(to right, #1b4280, #374151, #6b21a8); /* Tailwind colors */
+    background: linear-gradient(to right, #1b4280, #374151, #6b21a8);
   }
   
   #root {
